@@ -1,8 +1,6 @@
-/docs/documentations/.obsidian
-/docs/documentations/.obsidian
-docs/.DS_Store
-docs/documentations/.DS_Store
-.DS_Store
-.obsidian/themes
-.obsidian/appearance.json
-.obsidian/workspace.json
+/Docs/docs_Mafia-Simulation/.obsidian
+Docs/docs_Mafia-Simulation/.DS_Store
+Docs/docs_Mafia-Simulation/.obsidian/themes
+Docs/docs_Mafia-Simulation/.obsidian/appearance.json
+Docs/docs_Mafia-Simulation/.obsidian/workspace.json
+Docs/docs_Mafia-Simulation/.obsidian/graph.json
