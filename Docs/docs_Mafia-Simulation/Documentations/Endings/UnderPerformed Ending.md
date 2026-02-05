@@ -1,2 +1,2 @@
 #ending #brainstorm
-[[Ally Mafias]] aldigin kararlari desteklemiyor da olsa hala bir otoriteye sahip oldugun icin bunu dert etmiyorlar.
+[[Ally Mafias]] aldigin kararlari desteklemiyor da olsa hala bir otoriteye sahip oldugun icin bunu dert etmiyorlar. Seni [[Sony Corleone]] bir kukla gibi kullaniyor ve aileyi daha cok o yonetiyor.

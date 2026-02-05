@@ -1,0 +1,2 @@
+#character 
+[[Vito Andolini Corleone]] in en buyuk oz oglu ve mirasini en cok hak eden kisi dolayisiyla [[Main Character]] ile arasi ilerde bozulabilir ve oyunun basinda [[Ally Mafias]] icerisinde olmasina ragmen aldigimiz kararlarla ilerde [[Enemy Mafias]] grubuna girme ihtimali olan birisi

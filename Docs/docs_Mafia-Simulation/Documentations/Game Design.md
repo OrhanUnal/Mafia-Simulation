@@ -7,7 +7,7 @@
 **Similar Titles:** Death and Taxes, Secim oyunu, Tostcu
 
 ### Game Summary:
-Yeni mafya babasi olan karakterimiz elinden geldigince babasinin mirasini yasatmaya calisiyor ve verdigi simulasyon kararlariyla gidebildigi kadar gitmeye calisiyor
+Yeni mafya babasi olan karakterimiz elinden geldigince babasinin mirasini yasatmaya calisiyor ve verdigi simulasyon kararlariyla gidebildigi kadar gitmeye calisiyor. 
 ### Common Questions
 **THE MESSAGE GAME GIVES TO THE PLAYER:**
 **ESSENCIAL FEELINGS THAT LED ME TO THIS GAME:**
