@@ -1,0 +1,2 @@
+#mainCharacter 
+[[Enemy Mafias]] lideri kendisi [[Player]] ile eskiden iyi arkadaslar ama bu eleman ve ailesi [[Vito Andolini Corleone]] tarafindan kaziklaniyorlar ve bunlar da bizim bolgelerimizi almak istiyor o yuzden bizimle surekli bir catisma icerisindeler. Cok daha kucuk bir grubu yonetiyor bize gore ancak eger yanlis kararlar verirsek [[Non-Mafia Members]] tarafindan bunlar daha cana yakin gorulmeye basliyor ve halkin desteginin ve guveninin bizden cekilmesiyle beraber bizim bolgelerimizi almaya basliyor.

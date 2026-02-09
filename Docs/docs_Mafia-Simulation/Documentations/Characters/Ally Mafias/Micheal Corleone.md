@@ -1,0 +1,2 @@
+#mainCharacter 
+[[Vito Andolini Corleone]]in en sevmedigi oglu. Kendisi [[Connie Corleone]] den once dogmus birisi ve oldukca simarik yetistirilmis [[Ally Mafias]] i sanki kendisi yonetiyormus gibi burnu havada sagda solda bununla hava atip kiz avlamaya calisan allahindan bulsun dedirten bir lavuk. [[Connie Corleone]] ile arasi oldukca kotu genel anlamda ailede iyi anlasti birisi yok ancak bu elemanin verdigi kotu kararlari red ederse [[Player]] ve [[Connie Corleone]] arasi iyilesiyor ve bu da bizi [[Good Ending]] alma yolunda olumlu bicimde ilerletiyor.

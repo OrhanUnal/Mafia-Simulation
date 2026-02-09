@@ -1,2 +1,2 @@
-#character
-[[Vito Andolini Corleone]]in bizden sonra ki en buyuk oz oglu ve [[Main Character]] ile arasi iyi olup guclu bir [[Ally Mafias]] uyesi 
+#mainCharacter
+[[Vito Andolini Corleone]]in bizden sonra ki en buyuk oz oglu ve [[Player]] ile arasi iyi olup guclu bir [[Ally Mafias]] uyesi. Oyun icinde kendisi ona guvenmemizi isteyen ama supheli gorunen kararlar almamizi istiyor ve bunlar cogu zaman bizim yararimiza oluyor ancak kendisinin kucuk olmasindan dolayi gelen tez canliligi da bazen acele ve yanlis kararlar almasina neden oluyor.

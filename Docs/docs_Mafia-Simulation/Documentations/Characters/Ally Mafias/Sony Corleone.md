@@ -1,2 +1,2 @@
-#character 
-[[Vito Andolini Corleone]] in en buyuk oz oglu ve mirasini en cok hak eden kisi dolayisiyla [[Main Character]] ile arasi ilerde bozulabilir ve oyunun basinda [[Ally Mafias]] icerisinde olmasina ragmen aldigimiz kararlarla ilerde [[Enemy Mafias]] grubuna girme ihtimali olan birisi
+#mainCharacter
+[[Vito Andolini Corleone]] in en buyuk oz oglu ve mirasini en cok hak eden kisi dolayisiyla [[Player]] ile arasi ilerde bozulabilir ve oyunun basinda [[Ally Mafias]] icerisinde olmasina ragmen aldigimiz kararlarla ilerde [[Enemy Mafias]] grubuna girme ihtimali olan birisi. Basta bize iyi kararlar sunuyor ama ilerleyen zamanlarda [[Tom Hagen]] ile aralarinda olan polemiklerde eger karsisinda durursak yavas yavas taraf degistirmeye ve bizi manipule etmeye basliyor. Eger yaninda durursak bu sefer de taraf degistirmeden gizlice mirasa konmak icin bize bilerek yanlis tavsiyelerde bulunuyor
