@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "8ed5a797512d3a1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2c5900d5e5e5292",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1af446f4ade6d921",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Docs/docs_Mafia-Simulation/Documentations/Overall Story/Story Canvas.canvas",
+                "viewState": {
+                  "x": 655.9951016889672,
+                  "y": 5533.265412778353,
+                  "zoom": -0.47380553555413457
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Story Canvas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d95ec3187fe51b6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b7fc4bd5f43c870",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a94fea5162bb44e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3d67b291c61f00bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cbb83f0181f4764a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0194f07dbe0c8b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f27aba7b246ce644",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be9142144e73ca54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f027b7c875851b87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8491159144bae752",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "35006a75ea3c21ae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c00d47a911af0812",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1af446f4ade6d921",
+  "lastOpenFiles": [
+    "Docs/docs_Mafia-Simulation/Documentations/Characters/Ally Mafias/Vito Andolini Corleone.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Overall Story/Story Canvas.canvas",
+    "Docs/docs_Mafia-Simulation/Documentations/Overall Story",
+    "Docs/docs_Mafia-Simulation/Documentations/Characters/Player.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Characters/Enemy Mafias/Thomas.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Characters/Enemy Mafias/Enemy3.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Characters/Enemy Mafias/Enemy2.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Characters/Enemy Mafias/Enemy1.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Characters/Ally Mafias/Micheal Corleone.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Characters/Ally Mafias/Connie Corleone.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Characters/Ally Mafias/Ally Mafias.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Characters/List Of Characters.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Characters/Ally Mafias/Fredo Corleone.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Endings/Bad Ending.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Endings/Good Ending.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Endings/UnderPerformed Ending.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Characters/Ally Mafias/Sony Corleone.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Game Design.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Characters/Main Character.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Characters/Non-Mafia Members/Non-Mafia Members.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Characters/Enemy Mafias/Enemy Mafias.md",
+    "Docs/docs_Mafia-Simulation/Documentations/Characters/Ally Mafias/Tom Hagen.md",
+    "Mafia-Simulation/Assets/TutorialInfo/Icons/URP.png"
+  ]
+}
