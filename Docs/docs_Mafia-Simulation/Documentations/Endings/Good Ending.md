@@ -1,2 +1,3 @@
-#ending #brainstorm 
-[[Ally Mafias]] ve [[Non-Mafia Members]] artik seni bir lider olarak gormeye basladi ve senin koruman ve gozetimin altinda mutlu yasam suruyorlar
+#ending
+[[Ally Mafias]] ve [[Non-Mafia Members]] artik seni bir lider olarak gormeye basladi ve senin koruman ve gozetimin altinda mutlu yasam suruyorlar. Bu ending icin [[Tom Hagen]] olmemeli, [[Connie Corleone]] ile aran iyi olmali. [[Sony Corleone]] ile aran kotu olmali ve [[Non-Mafia Members]] ile aran iyi olmali. Ayrica arada bar gibi mekanlara gidip [[Enemy Mafias]] ile diyaloga girip onlarla da arasini iyi tutmali ve totalde 12 karakterin en az 8 i ile iyi bir iliskeye sahip olmali
+Son gun geldiginde bu kosullar saglaniyorsa [[Enemy Mafias]] bolgemizden cekiliyor veya bize katiliyor ve kralligimizi kuruyoruz

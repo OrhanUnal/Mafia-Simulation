@@ -1,2 +1,2 @@
-#ending #brainstorm
-[[Enemy Mafias]] senden daha guclu geldi ve seni olume surukledi ya da artik onlara katilmak zorunda kaldin ve babanin mirasini kaybettin.
+#ending
+[[Enemy Mafias]] senden daha guclu geldi ve seni olume surukledi ya da artik onlara katilmak zorunda kaldin ve babanin mirasini kaybettin. Yol boyunca kotu kararlar aldin 16. gunun sonunda buyuk bir olay oluyor ve [[Fredo Corleone]] saldirmayi oneriyor ancak eger o an performansimiz kotuyse bundan baska bir secenegimiz olmuyor ve bu sebepten oturu oluyoruz. Burada spesifik birisinden ziyade senin genel performansin onemli olacak. Eger iyi bir performans sergilediysek [[Fredo Corleone]]i red etme imkanimiz oluyor ve eger red edersek [[Enemy Mafias]] ile aramizda iyice bir gerilim oluyor ve suikasttan kurtuluyoruz ancak bu durumda da [[Tom Hagen]]in olmemesi icin [[Connie Corleone]] ile aramiz iyi olmak zorunda.

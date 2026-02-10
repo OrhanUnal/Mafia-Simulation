@@ -1,2 +1,2 @@
-#ending #brainstorm
-[[Ally Mafias]] aldigin kararlari desteklemiyor da olsa hala bir otoriteye sahip oldugun icin bunu dert etmiyorlar. Seni [[Sony Corleone]] bir kukla gibi kullaniyor ve aileyi daha cok o yonetiyor.
+#ending 
+[[Ally Mafias]] aldigin kararlari desteklemiyor da olsa hala bir otoriteye sahip oldugun icin bunu dert etmiyorlar. Seni [[Sony Corleone]] bir kukla gibi kullaniyor ve aileyi daha cok o yonetiyor. [[Tom Hagen]] olmedi ve bunu fark ediyor ancak bir cok kisi henuz sana saygi duymuyor ve good endingi alamiyorsun o sebepten oturu herkes senden ziyade oyunun sonunda aramiz hangisiyle daha olduguna gore [[Tom Hagen]] veya [[Sony Corleone]] ikilisinden birine yonetimi fiilen devrediyor.
