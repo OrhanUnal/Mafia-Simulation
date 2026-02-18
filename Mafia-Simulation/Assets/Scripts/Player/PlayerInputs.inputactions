@@ -25,9 +25,18 @@
                     "initialStateCheck": true
                 },
                 {
-                    "name": "Jump",
+                    "name": "Interact",
                     "type": "Button",
-                    "id": "65749a61-ca15-4f37-bc02-2479e035888b",
+                    "id": "0741cca4-83d8-424f-a77d-bdbb2afc4847",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "Hold",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "PickUp DropDown",
+                    "type": "Button",
+                    "id": "aeace497-54cb-4905-8699-aa9e8b58475e",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -202,12 +211,23 @@
                 },
                 {
                     "name": "",
-                    "id": "5b55edd8-d79e-4ee5-9f05-581742863753",
-                    "path": "<Keyboard>/space",
+                    "id": "6b6b97db-df86-4dc3-aedd-58ed8fade405",
+                    "path": "<Keyboard>/e",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Jump",
+                    "action": "Interact",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c9c37a40-0b53-470e-98f1-42a219792597",
+                    "path": "<Keyboard>/f",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PickUp DropDown",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
