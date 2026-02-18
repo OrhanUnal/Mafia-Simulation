@@ -6,7 +6,7 @@ using UnityEngine.InputSystem;
 public class Player : MonoBehaviour
 {
     [SerializeField]
-    float acceleration = 70f, maxInteractDistance = 10f, drag = 25f, maxSpeed = 4, gravityForPlayer = -9.81f, sensivity = 1f;
+    float acceleration = 70f, maxInteractDistance = 10f, drag = 25f, maxSpeed = 4, gravityForPlayer = -9.81f, sensivity = 1f, radiusOfRay = 0.3f;
 
     [SerializeField]
     Transform cameraPickUpPosition, head;
@@ -135,14 +135,14 @@ public class Player : MonoBehaviour
 
     private RaycastHit ShootRayFromCamera()
     {
-        Debug.DrawRay(head.position, head.forward * maxInteractDistance, Color.red, 0.1f);
+        Debug.DrawRay(head.position, head.forward * maxInteractDistance, Color.red, 0.3f);
         Ray rayOfInteract = new Ray
         {
             origin = head.position,
             direction = head.forward,
         };
         RaycastHit hitInfo;
-        Physics.Raycast(rayOfInteract, out hitInfo, maxInteractDistance);
+        Physics.SphereCast(rayOfInteract, radiusOfRay, out hitInfo, maxInteractDistance);
         return hitInfo;
     }
     public bool CanMove { get => _canMove; set => _canMove = value; }
