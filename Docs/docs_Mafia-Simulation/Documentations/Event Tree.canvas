@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"1050fb0ffa3ffdf0","type":"text","text":"","x":-537,"y":-264,"width":250,"height":60},
+		{"id":"fbedee173d8441e7","type":"text","text":"","x":-287,"y":-360,"width":250,"height":60},
+		{"id":"13312c1748703e61","type":"text","text":"","x":-37,"y":-264,"width":250,"height":60},
+		{"id":"4362edd3486ebcb2","type":"text","text":"[[Bad ending]]","x":165,"y":2281,"width":250,"height":60},
+		{"id":"7ff7db1dc16631e4","type":"text","text":"Bad ending 2 ([[Fredo Corleone]]den gelen teklif-olumlu):\nYetersiz bir planla anlık alınan kararlar sonucunda [[Enemy Mafias]]'a yapılan baskın başarısız oluyor ve [[Player]] bu baskın sırasında ölüyor","x":120,"y":1920,"width":340,"height":192},
+		{"id":"e6395789adc1cb76","type":"text","text":"[[Bad Ending]]","x":-425,"y":2281,"width":250,"height":60},
+		{"id":"f87ac6ca565e4ffb","type":"text","text":"bad ending 1 (kötü performans): [[Sony Corleone]] [[Player]]in karısını zamanında babasın yapmış olduğu gibi yanına çekerek karsınını ona ihanet etmesi konusunda ikna eder. [[Player]] karısı tarafından bad endingdeki 16. gündeki suikast sonucunda öldürülür.","x":-520,"y":1920,"width":440,"height":192,"color":"1"},
+		{"id":"3719b6aa95c6db08","x":502,"y":2701,"width":457,"height":199,"type":"text","text":" [[Sony Corleone]], [[Tom Hagen]]i öldürdüğü için [[Sony Corleone]] ile olan ilişkimiz iyice zedeleniyor bunun sonucunda [[Ally Mafias]] üyesi olan [[Micheal Corleone]] ile olan ilişki seviyemiz yeterince iyiyse birlikte [[Sony Corleone]]yi altederek good endinge ulaşıyoruz. aksi takdirde [[Sony Corleone]] bizi alt etmeyi başarıyor ve bad ending oluyor."},
+		{"id":"a99098bc9d976fb2","x":794,"y":3062,"width":250,"height":80,"type":"text","text":"[[Micheal Corleone]] ile ilişki iyiyse [[Good Ending]]"},
+		{"id":"2ac5c15f292588a5","type":"text","text":"[[Tom Hagen]]in öldüğü senaryo","x":606,"y":2520,"width":250,"height":80},
+		{"id":"9f2d9aaef23def38","type":"text","text":"Good / Underperformed ending ([[Fredo Corleone]]den gelen teklif-olumsuz): [[Sony Corleone]] [[Player]]in karısın yanına çektikten sonra karısının yapmış olduğu suikast girişimi başarısız oluyor bu sırada [[player]] karısını öldürerek mekandan kaçıyor. olaylar yaşanırken oluşan gürültü polislerin de olaya dahil olmasını sağlıyor ve polislerin bulduğu delillerin ucunun [[Enemy Mafias]]a kadar ulaşması onları bize daha da kinli hale getiriyor. Tüm bu olaylar [[Enemy Mafias]]ın [[Connie Corleone]]yi kafalaması sonucu [[Connie Corleone]] ile olan ilişkimize göre [[Tom Hagen]] eğer kötü ilişkiye sahipsek ölüyor aksi durumda onu casus olarak kullanmaya devam ediyoruz ve bu sayede [[Sony Corleone]] ile yüzleşip good endinge ulaşıp herkese biat ettirtiyoruz.","x":609,"y":1920,"width":620,"height":280},
+		{"id":"a4c28ff64b348c8c","type":"text","text":"[[Connie Corleone]] ile ilişki kötü","x":609,"y":2341,"width":250,"height":60},
+		{"id":"229225b40568115a","x":415,"y":3062,"width":250,"height":60,"type":"text","text":"[[Micheal Corleone]] ile ilişki kötüyse [[Bad Ending]]"},
+		{"id":"a69cca51a64a5946","type":"text","text":"[[Good Ending]]","x":1164,"y":3000,"width":250,"height":62},
+		{"id":"6f7f9ea442757bab","type":"text","text":"[[Tom Hagen]]in ölmediği senaryo","x":1414,"y":2550,"width":220,"height":80},
+		{"id":"cd4be1bc725028f8","type":"text","text":"[[Tom Hagen]] ile [[Sony Corleone]]yi vuruyoruz","x":1164,"y":2771,"width":250,"height":60},
+		{"id":"7909a089090b21c4","type":"text","text":"[[UnderPerformed Ending]]","x":1634,"y":2771,"width":250,"height":60},
+		{"id":"a9c2473649b436f4","type":"text","text":"[[Connie Corleone]] ile ilişki iyi","x":1229,"y":2341,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"016168dac9915e6f","fromNode":"6f7f9ea442757bab","fromSide":"bottom","toNode":"cd4be1bc725028f8","toSide":"top"},
+		{"id":"b129955595e00552","fromNode":"6f7f9ea442757bab","fromSide":"bottom","toNode":"7909a089090b21c4","toSide":"top"},
+		{"id":"5a5a2063ce15e0c1","fromNode":"9f2d9aaef23def38","fromSide":"bottom","toNode":"a9c2473649b436f4","toSide":"top"},
+		{"id":"6435260cc48e6275","fromNode":"9f2d9aaef23def38","fromSide":"bottom","toNode":"a4c28ff64b348c8c","toSide":"top"},
+		{"id":"788643641e7aa1e8","fromNode":"a4c28ff64b348c8c","fromSide":"bottom","toNode":"2ac5c15f292588a5","toSide":"top"},
+		{"id":"d42533198649d5dc","fromNode":"a9c2473649b436f4","fromSide":"bottom","toNode":"6f7f9ea442757bab","toSide":"top"},
+		{"id":"6da80cff58a40962","fromNode":"f87ac6ca565e4ffb","fromSide":"bottom","toNode":"e6395789adc1cb76","toSide":"top"},
+		{"id":"3b4dfc9d7cb43f03","fromNode":"7ff7db1dc16631e4","fromSide":"bottom","toNode":"4362edd3486ebcb2","toSide":"top"},
+		{"id":"0b0137c886893ce7","fromNode":"cd4be1bc725028f8","fromSide":"bottom","toNode":"a69cca51a64a5946","toSide":"top"},
+		{"id":"c46266a5e76a195e","fromNode":"2ac5c15f292588a5","fromSide":"bottom","toNode":"3719b6aa95c6db08","toSide":"top"},
+		{"id":"1a4e37f318d53569","fromNode":"3719b6aa95c6db08","fromSide":"bottom","toNode":"229225b40568115a","toSide":"top"},
+		{"id":"47cf8d2ae71d715a","fromNode":"3719b6aa95c6db08","fromSide":"bottom","toNode":"a99098bc9d976fb2","toSide":"top"}
+	]
+}
