@@ -56,3 +56,17 @@
 | Animation Controller       |    AC_PascalCase     |            AC_Player |
 | Materials                  |     M_AssetName      |                      |
 | Textures                   |     T_AssetName      |                      |
+## IMPORTANT NAMING STANDART!!
+Diyalog managerda eger condition veya script kullanmak istiyorsaniz sadece benim LUA icerisine attigim fonksiyonlari kullanabilirsiniz ki bunlar da 
+AddRelationPoints,
+ReduceRealtionPoints,
+GetRelationPoints ve
+SetRelationPoints 
+bu liste ilerde belki genisler ancak bu elemanlari kullanirken yazim sekliniz cok onemli
+
+RelationPoint Fonksiyonlarin icine koyacaginiz ID stringi Pascal_Code seklinde olmak zorundadir ve turkce karakter bulundurmamalidir
+
+Ornegin: GetRelationPoints(Orhan_Unal) 
+veya
+AddRelationPoints(Atahan_Ertas, 25)
+
