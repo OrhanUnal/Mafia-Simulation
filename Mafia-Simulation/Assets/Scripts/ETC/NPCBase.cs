@@ -36,6 +36,7 @@ public class NPCBase : MonoBehaviour, IInteractable
         else
             Debug.LogWarning($"[{info.npcID}] Could not find Player tag in scene.");
         SetPatrolPoints();
+        TimeManager.instance.OnSunRise += SetPatrolPoints;
     }
 
     protected void Update()
@@ -48,9 +49,9 @@ public class NPCBase : MonoBehaviour, IInteractable
 
     private void SetPatrolPoints()
     {
-        //if(info.ShouldApproachOnDay(DayCycleManager.Instance.currentDay))
-            //currentPatrolPoints = activePatrolPoints;
-        //else
+        if (info.ShouldApproachOnDay(TimeManager.instance.dayCounter))
+            currentPatrolPoints = activePatrolPoints;
+        else
             currentPatrolPoints = idlePatrolPoints;
         _currentPatrolIndex = 0;
         if (!HasRoute())
