@@ -1,6 +1,6 @@
 #character 
 [[Sony Corleone]]
 [[Thomas]]
-[[Enemy1]]
-[[Enemy2]]
-[[Enemy3]]
+[[Lorenzo Bianchi]]
+[[Antonio Romano]]
+[[Dante Conti]]
