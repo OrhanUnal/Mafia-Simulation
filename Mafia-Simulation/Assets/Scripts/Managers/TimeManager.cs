@@ -40,7 +40,7 @@ public class TimeManager : MonoBehaviour
     {
         timeService = new TimeService(settings);
         //volume.profile.TryGet(out colorAdjustments);
-        OnSunset += UpdateDayCounter;
+        OnSunRise += UpdateDayCounter;
     }
 
     private void Update()

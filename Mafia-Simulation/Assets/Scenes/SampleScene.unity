@@ -752,7 +752,7 @@ GameObject:
   - component: {fileID: 462773399}
   - component: {fileID: 462773398}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -792,6 +792,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DoorController
   info: {fileID: 11400000, guid: 5f5f9ad6de9df6a42a1dbc0d18b397c5, type: 2}
+  _hingeTransform: {fileID: 1202678598}
 --- !u!65 &462773400
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -877,12 +878,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 462773397}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.62, y: 0.1, z: 12.13}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.5040007, y: 0.030000012, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1202678598}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &533953966
 GameObject:
@@ -1462,7 +1463,40 @@ Transform:
   - {fileID: 328861188}
   - {fileID: 239805710}
   - {fileID: 239723466}
+  - {fileID: 1202678598}
   m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1202678597
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1202678598}
+  m_Layer: 0
+  m_Name: Hinge
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1202678598
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1202678597}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 20.014591, y: 1.5651244, z: 4.1281004}
+  m_LocalScale: {x: 2.4095, y: 3.1625218, z: 0.28351}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 462773403}
+  m_Father: {fileID: 1025916019}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1243087517
 GameObject:
@@ -2116,7 +2150,6 @@ SceneRoots:
   - {fileID: 637550842}
   - {fileID: 533953967}
   - {fileID: 1025916019}
-  - {fileID: 462773403}
   - {fileID: 876441486}
   - {fileID: 367360831}
   - {fileID: 1243087519}
