@@ -11,7 +11,7 @@ public class TimeManager : MonoBehaviour
     [SerializeField] AnimationCurve LightIntensityCurve;
     [SerializeField] float maxSunIntensity = 3f;
     [SerializeField] float maxMoonIntensity = 1.5f;
-    [SerializeField] public int dayCounter { get; private set; } = 0;
+    [SerializeField] public int dayCounter = 0;
     [SerializeField] Color dayAmbientLight;
     [SerializeField] Color nightAmbientLight;
     [SerializeField] Volume volume;
@@ -24,6 +24,7 @@ public class TimeManager : MonoBehaviour
 
     public Action OnSunRise;
     public Action OnSunset;
+    public Action OnHourChanged;
 
     private void Awake()
     {
