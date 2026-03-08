@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::NPCInfosSO
   npcID: Orhan_Unal
   conversationTitle: New Conversation 1
-  approachOnDays: 
+  approachOnDays: 00000000
   startingPoints: 10
   minPoints: -100
   maxPoints: 100

@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
@@ -10,7 +11,7 @@ public class TimeManager : MonoBehaviour
     [SerializeField] AnimationCurve LightIntensityCurve;
     [SerializeField] float maxSunIntensity = 3f;
     [SerializeField] float maxMoonIntensity = 1.5f;
-    [SerializeField] int dayCounter = 0;
+    [SerializeField] public int dayCounter = 0;
     [SerializeField] Color dayAmbientLight;
     [SerializeField] Color nightAmbientLight;
     [SerializeField] Volume volume;
@@ -21,6 +22,9 @@ public class TimeManager : MonoBehaviour
 
     public static TimeManager instance;
 
+    public Action OnSunRise;
+    public Action OnSunset;
+    public Action OnHourChanged;
 
     private void Awake()
     {
@@ -36,7 +40,7 @@ public class TimeManager : MonoBehaviour
     {
         timeService = new TimeService(settings);
         //volume.profile.TryGet(out colorAdjustments);
-        timeService.OnSunset += UpdateDayCounter;
+        OnSunRise += UpdateDayCounter;
     }
 
     private void Update()
