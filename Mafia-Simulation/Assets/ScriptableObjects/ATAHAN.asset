@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::NPCInfosSO
   npcID: ATAHAN
   conversationTitle: New Conversation 2
-  approachOnDays: 01000000
+  approachOnDays: 0100000004000000
   startingPoints: 0
   minPoints: -100
   maxPoints: 100
