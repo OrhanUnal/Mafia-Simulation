@@ -1,0 +1,2 @@
+#character
+kendisi [[Thomas]]ın sağ kolu olarak görülen bir üst düzey mafya. [[Tom Hagen]] ile çocukluklarında beri tanışıklar ve aralarında hep bir it dalaşı var. hırçın ve kıskanç bir karakter olduğu için içten içe [[Thomas]]ın sahip olduğu güçte gözü var ona ihanet etmesini sağlayarak bunu lehimize çevirebiliriz. eğer [[Sony Corleone]] ile aramız nötr kalırsa onu [[Thomas]]a ihanet etmesi konusunda dolduruşa getirebiliyoruz ve [[Good Ending]] alrıken işimize yarayabiliyor.

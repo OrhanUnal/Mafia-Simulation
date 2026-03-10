@@ -1,2 +1,5 @@
 #mainCharacter
 [[Vito Andolini Corleone]]in en buyuk oglu ancak kendisi oz ogul olmadigi icin mirasta diger kardesler tarafindan hor goruluyor. [[Sony Corleone]] ile arasi oldukca bozuk ve kendisinin bize yanlis kararlar verdirtmeye calistigini biliyor ve bu yuzden surekli kavga ediyorlar. Kendisi iyi birisi bir twisti veya yamugu yok ama hep pasif kaliyor risk almaktan kaciniyor ve bu yuzden bazi durumlarda en iyi karari almaktan ziyade daha geri duran bir karar alarak ortalamanin ustune cikamiyor.
+
+
+radikal kararlar veremediği için hep bir yaverlik yardakçılık rolüne sahip. [[Player]]a sunduğu teklifler daha basit ama kelebek etkisine sahip olabilecek dolaylı teklifler olmalı ve [[Player]] ile arası hiçbir şekilde bozulmamalı. bu sebeple öldüğü senaryoda oyuncunun vereceği kararlarda kelebek etkisine daha az rastlanmalı.

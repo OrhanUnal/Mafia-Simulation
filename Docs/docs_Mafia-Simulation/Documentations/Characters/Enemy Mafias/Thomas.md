@@ -1,2 +1,4 @@
 #mainCharacter 
 [[Enemy Mafias]] lideri kendisi [[Player]] ile eskiden iyi arkadaslar ama bu eleman ve ailesi [[Vito Andolini Corleone]] tarafindan kaziklaniyorlar ve bunlar da bizim bolgelerimizi almak istiyor o yuzden bizimle surekli bir catisma icerisindeler. Cok daha kucuk bir grubu yonetiyor bize gore ancak eger yanlis kararlar verirsek [[Non-Mafia Members]] tarafindan bunlar daha cana yakin gorulmeye basliyor ve halkin desteginin ve guveninin bizden cekilmesiyle beraber bizim bolgelerimizi almaya basliyor.
+
+çok agresif ve ters birisi olmamasına karşın manipülatiflik özelliği oldukça yüksek bu sebeple ona karşı alınan kararları olabildiğince sinsice kurgulamak gerekiyor aksi takdirde olayları ayıkıyor ve ilişkimizin kötü geliştiği karakterleri bize karşı örgütlüyor.

@@ -1,0 +1,1 @@
+#character Bize her gün otele giriş çıkış yaparken random bilgi veriyor bu [[Ally Mafias]] veya [[Enemy Mafias]] hakkında bir dedikodu da olabilir gerçek bir bilgi de olabilir inanmak oyuncuya kalmış.

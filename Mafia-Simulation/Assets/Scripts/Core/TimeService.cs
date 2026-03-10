@@ -13,10 +13,6 @@ public class TimeService
     
     DateTime currentTime;
 
-    public event Action OnSunRise;
-    public event Action OnSunset;
-    public event Action OnHourChanged;
-
     public TimeService  (TimeSettingsSO timeSettingsSO)
     {
         this.timeSettingsSO = timeSettingsSO;
@@ -27,16 +23,16 @@ public class TimeService
         isDayTime = new Observable<bool> (IsDayTime());
         currentHour = new Observable<int> (currentTime.Hour);
 
-        isDayTime.onValueChanged += day => (day ? OnSunRise : OnSunset)?.Invoke();
-        currentHour.onValueChanged += _ => OnHourChanged?.Invoke();
+        isDayTime.onValueChanged += day => (day ? TimeManager.instance.OnSunRise : TimeManager.instance.OnSunset)?.Invoke();
+        currentHour.onValueChanged += _ => TimeManager.instance.OnHourChanged?.Invoke();
     }
 
     public void UpdateTime(float deltaTime)
     {
-        if (IsDayTime())
-        {
+       // if (IsDayTime())
+       // {
             currentTime = currentTime.AddSeconds(deltaTime * timeSettingsSO.timeMultiplier);
-        }
+       // }
         isDayTime.value = IsDayTime();
         currentHour.value = currentTime.Hour;
     }
